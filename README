@@ -1,0 +1,5 @@
+fhpipe
+======
+
+    A small Qt application that lets javascript in a browser talk to an
+Arduino/floathub device that happens to be locally attached by USB.
